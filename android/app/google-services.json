@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "220073361315",
+    "project_id": "registerauth-bbc1b",
+    "storage_bucket": "registerauth-bbc1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220073361315:android:4d2e86a2015426baa1a416",
+        "android_client_info": {
+          "package_name": "com.example.firebaseintro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABFxPsDUF7AMxoD9DVFfzBNsVVtZe3Z4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
